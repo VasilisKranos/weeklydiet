@@ -15,3 +15,9 @@ DietApp is a user-friendly tool designed to create personalized weekly meal plan
 - **Export Functionality**: Save your meal plan as a JPEG file for easy sharing or printing.
 - **Modern UI**: Flat design with a glossy, blurred background inspired by Apple's aesthetic.
 - **Standalone Executable**: Can be compiled into a single .exe file for easy distribution.
+
+## 📸 Screenshots
+
+![App Screenshot](paged.png)
+
+![App Screenshot](weeklydietpng.png)
