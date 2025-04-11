@@ -4,7 +4,7 @@ A modern diet planning application built with Python and PyQt6.
 
 ## Description
 
-DietApp is a user-friendly tool designed to create personalized weekly meal plans based on individual data such as weight, height, age, gender, activity level, and fitness goals. It supports both Greek and English languages and allows users to export their meal plans as JPEG images. The application features a sleek, Apple-inspired UI with a blurred background, making it both functional and visually appealing.
+DietApp is a user-friendly tool designed to create personalized weekly meal plans based on individual data such as weight, height, age, gender, activity level, and fitness goals. It supports both Greek and English languages and allows users to export their meal plans as JPEG images. The application features a sleek UI making it both functional and visually appealing.
 
 ## Features
 
